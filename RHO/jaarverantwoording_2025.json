@@ -1,0 +1,2094 @@
+{
+  "metadata": {
+    "bron": "VWS Jaarverantwoording zorg archief (digimv8.desan.nl), API /api/ArchiveSearch/GetArchiveSearchResult",
+    "zoekjaar": "2025",
+    "datum_verzameling": "2026-10-12",
+    "rho_lijst_bron": "hechtehuisartsenzorg.nl (initiatief LHV, NHG en InEen), categorie Huisartsenorganisaties",
+    "toelichting": "Voor elke RHO zijn de in het VWS-archief gevonden zorgaanbieders met publicaties over verslagjaar 2025 opgenomen. heeft_jaarrekening geeft aan of bij die zorgaanbieder een document van het type Jaarrekening is gepubliceerd."
+  },
+  "rho_overzicht": [
+    {
+      "rho_naam": "Alphense Huisartsen Coöperatie",
+      "regios": [
+        {
+          "code": "R08",
+          "naam": "Regio Zuid-Holland-Noord",
+          "preferente_zorgverzekeraar": "Zorg en Zekerheid"
+        },
+        {
+          "code": "R56",
+          "naam": "Regio Alphen aan den Rijn",
+          "preferente_zorgverzekeraar": "Zorg en Zekerheid"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Arts en Zorg",
+      "regios": [
+        {
+          "code": "R10",
+          "naam": "Regio Den Haag",
+          "preferente_zorgverzekeraar": "CZ + Menzis"
+        },
+        {
+          "code": "R13",
+          "naam": "Regio Utrecht",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        },
+        {
+          "code": "R15",
+          "naam": "Regio Eemland",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        },
+        {
+          "code": "R33",
+          "naam": "Regio Twente-Oost (OUD)",
+          "preferente_zorgverzekeraar": "Menzis"
+        },
+        {
+          "code": "R35",
+          "naam": "Regio Arnhem",
+          "preferente_zorgverzekeraar": "Menzis"
+        },
+        {
+          "code": "R51",
+          "naam": "Regio Westland Schieland Delfland",
+          "preferente_zorgverzekeraar": "DSW"
+        },
+        {
+          "code": "R05",
+          "naam": "Regio Groningen en kop van Drenthe",
+          "preferente_zorgverzekeraar": "Menzis"
+        },
+        {
+          "code": "R50",
+          "naam": "Regio Rotterdam Rijnmond",
+          "preferente_zorgverzekeraar": "Zilveren Kruis + CZ"
+        },
+        {
+          "code": "R06",
+          "naam": "Regio Friesland",
+          "preferente_zorgverzekeraar": "De Friesland + Zilveren Kruis"
+        },
+        {
+          "code": "R03",
+          "naam": "Regio Flevoland Zwolle Vechtdal",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        },
+        {
+          "code": "R24",
+          "naam": "Regio Zaanstreek-Waterland",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "01924701",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/arts-en-zorg-groep-bv-nl01924701",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Arts en Zorg B.V.",
+          "plaats": "Utrecht",
+          "externalOrganizationId": "32104230",
+          "concernId": "XKWU8K53A2",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "controleverklaring-arts-en-zorg-b-v--signed-by-copy.pdf",
+              "id": 102276,
+              "grootte": 120304,
+              "gepubliceerd": "2026-06-03T20:42:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "AZ Bestuursverslag 2025 DEF.pdf",
+              "id": 100451,
+              "grootte": 100263,
+              "gepubliceerd": "2026-05-29T15:31:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "Jaarrekening 2025 Arts en Zorg B.V..pdf",
+              "id": 102148,
+              "grootte": 629293,
+              "gepubliceerd": "2026-06-02T14:51:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag RvC AenZ Zorgbedrijf Holding jaarrekening 2025.pdf",
+              "id": 100452,
+              "grootte": 38371,
+              "gepubliceerd": "2026-05-29T15:32:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Charis",
+      "regios": [
+        {
+          "code": "R03",
+          "naam": "Regio Flevoland Zwolle Vechtdal",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "63260263",
+      "kvk_bron": "https://drimble.nl/bedrijf/s-gravenhage/000032194781/charis.html",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Cohesie Huisartsenzorg",
+      "regios": [
+        {
+          "code": "R42",
+          "naam": "Regio Noord-Limburg",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Cooperatie Dokterscoop U.A.",
+      "regios": [
+        {
+          "code": "R06",
+          "naam": "Regio Friesland",
+          "preferente_zorgverzekeraar": "De Friesland + Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Coöperatie Pozob U.A.",
+      "regios": [
+        {
+          "code": "R45",
+          "naam": "Regio Zuidoost-Brabant",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Coöperatieve Huisartsengroep Haaksbergen",
+      "regios": [
+        {
+          "code": "R33",
+          "naam": "Regio Twente-Oost (OUD)",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Coöperatieve Huisartsenvereniging Gelders Rivierenland (CHVGR)",
+      "regios": [
+        {
+          "code": "R34",
+          "naam": "Regio Gelders Rivierenland",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Coöperatieve Vereniging Vrijgevestigde Huisartsen Almere",
+      "regios": [
+        {
+          "code": "R01",
+          "naam": "Regio Almere",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "De huisartsenconnectie",
+      "regios": [
+        {
+          "code": "R52",
+          "naam": "Regio Zeeuwse Eilanden",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Delta Dokters",
+      "regios": [
+        {
+          "code": "R20",
+          "naam": "Regio Zuid-Hollandse Eilanden",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": "01384645",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/delta-dokters-bv-nl01384645",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Delta Dokters B.V.",
+          "plaats": "Rockanje",
+          "externalOrganizationId": "24484577",
+          "concernId": "A0FE92F8-B481-4E27-8B5D-16991F486D92",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "20260526 Jaarrekening 2025 Delta Dokters B.V.pdf",
+              "id": 94106,
+              "grootte": 3354776,
+              "gepubliceerd": "2026-05-26T12:47:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "20260526 WNT verantwoording 2025 bijlage van Jaarrekening Delta Dokters B.V.pdf",
+              "id": 94125,
+              "grootte": 3354571,
+              "gepubliceerd": "2026-05-26T12:51:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "20260519 WTZA 2025 Jaarverantwoording intern toezicht Delta Dokters.pdf",
+              "id": 94126,
+              "grootte": 91541,
+              "gepubliceerd": "2026-05-26T12:52:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Dokter Drenthe",
+      "regios": [
+        {
+          "code": "R04",
+          "naam": "Regio Drenthe",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "00075184",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/dokter-drenthe-bv-nl00075184",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Dokter Drenthe Innovatie B.V.",
+          "plaats": "Assen",
+          "externalOrganizationId": "51328607",
+          "concernId": "22959885-99F1-4872-B2DA-48BE15F60C65",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Dokter Drenthe Innovatie 2025 definitieve jaarrekening.pdf",
+              "id": 106717,
+              "grootte": 301319,
+              "gepubliceerd": "2026-09-29T06:13:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 106720,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-09-29T06:15:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 106719,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-09-29T06:14:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        },
+        {
+          "naam_officieel": "Dokter Drenthe B.V.",
+          "plaats": "Assen",
+          "externalOrganizationId": "01142002",
+          "concernId": "BB785C1F-1BF9-4517-B541-780AA825C197",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "1432 1098499 Dokter Drenthe B.V. - Controleverklaring 2025.pdf",
+              "id": 103401,
+              "grootte": 259767,
+              "gepubliceerd": "2026-06-29T07:10:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 103406,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-06-29T07:33:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 103398,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-06-29T07:08:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 103408,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-06-29T07:34:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 103407,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-06-29T07:34:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+              "id": 103410,
+              "grootte": 1580437,
+              "gepubliceerd": "2026-06-29T07:34:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        },
+        {
+          "naam_officieel": "Stichting Dokter Drenthe",
+          "plaats": "Assen",
+          "externalOrganizationId": "04063339",
+          "concernId": "QAJ4BPZG23",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Stichting Dokter Drenthe 2025 definitieve jaarrekening.pdf",
+              "id": 106007,
+              "grootte": 1757530,
+              "gepubliceerd": "2026-09-22T10:56:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Stichting Dokter Drenthe 2025 definitieve jaarrekening.pdf",
+              "id": 106009,
+              "grootte": 1757530,
+              "gepubliceerd": "2026-09-22T10:57:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Stichting Dokter Drenthe 2025 definitieve jaarrekening.pdf",
+              "id": 106008,
+              "grootte": 1757530,
+              "gepubliceerd": "2026-09-22T10:57:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Dokterszorg Friesland B.V.",
+      "regios": [
+        {
+          "code": "R06",
+          "naam": "Regio Friesland",
+          "preferente_zorgverzekeraar": "De Friesland + Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "03059641",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/dokterszorg-friesland-bv-nl03059641",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "DrechtDokters",
+      "regios": [
+        {
+          "code": "R19",
+          "naam": "Regio West-Alblasserwaard",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "DrechtDokters Care B.V.",
+          "plaats": "Hendrik-Ido-Ambacht",
+          "externalOrganizationId": "24448009",
+          "concernId": "5503179F-BE64-47B6-9D6C-C66B827CFB55",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "Care - Accountantsverklaring 2025.pdf",
+              "id": 92113,
+              "grootte": 3017202,
+              "gepubliceerd": "2026-05-20T08:12:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "Bestuursverslag.PDF",
+              "id": 92114,
+              "grootte": 4439510,
+              "gepubliceerd": "2026-05-20T08:13:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "Care - Jaarrekening.pdf",
+              "id": 92112,
+              "grootte": 1721200,
+              "gepubliceerd": "2026-05-20T08:11:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Care - WNT.pdf",
+              "id": 92116,
+              "grootte": 823259,
+              "gepubliceerd": "2026-05-20T08:13:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Care - WNT.pdf",
+              "id": 92118,
+              "grootte": 823259,
+              "gepubliceerd": "2026-05-20T08:14:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag Interne toezichthouder.PDF",
+              "id": 92115,
+              "grootte": 717629,
+              "gepubliceerd": "2026-05-20T08:13:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "Care - Jaarstukken 2025 DrechtDokters Care BV - was getekend en gewaarmerkt incl controleverklaring.pdf",
+              "id": 92117,
+              "grootte": 1889358,
+              "gepubliceerd": "2026-05-20T08:13:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        },
+        {
+          "naam_officieel": "DrechtDokters Huisartsenpost B.V.",
+          "plaats": "Dordrecht",
+          "externalOrganizationId": "61221015",
+          "concernId": "873675A6-EB68-4E68-A687-232DDB59FDB3",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "Accountantsverklaring HAP 2025.pdf",
+              "id": 92088,
+              "grootte": 3037056,
+              "gepubliceerd": "2026-05-20T07:03:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "Bestuursverslag.PDF",
+              "id": 92089,
+              "grootte": 4439510,
+              "gepubliceerd": "2026-05-20T07:03:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "Jaarrekening HAP 2025.pdf",
+              "id": 92087,
+              "grootte": 1800170,
+              "gepubliceerd": "2026-05-20T07:03:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "WNT.pdf",
+              "id": 92091,
+              "grootte": 688713,
+              "gepubliceerd": "2026-05-20T07:04:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag Interne toezichthouder.PDF",
+              "id": 92090,
+              "grootte": 717629,
+              "gepubliceerd": "2026-05-20T07:04:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "Jaarstukken 2025 DrechtDokters Huisartsenpost BV - was getekend met waarmerk en incl controleverklaring.pdf",
+              "id": 92092,
+              "grootte": 1829059,
+              "gepubliceerd": "2026-05-20T07:05:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Elan Huisartsen",
+      "regios": [
+        {
+          "code": "R45",
+          "naam": "Regio Zuidoost-Brabant",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Elann",
+      "regios": [
+        {
+          "code": "R05",
+          "naam": "Regio Groningen en kop van Drenthe",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": "41011438",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/groningen/zuidwest/van-swieten/859354/elann-b-v",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Groninger Huisartsen Coöperatie (GHC)",
+      "regios": [
+        {
+          "code": "R05",
+          "naam": "Regio Groningen en kop van Drenthe",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Hadoks",
+      "regios": [
+        {
+          "code": "R10",
+          "naam": "Regio Den Haag",
+          "preferente_zorgverzekeraar": "CZ + Menzis"
+        }
+      ],
+      "kvk_nummer": "27309452",
+      "kvk_bron": "https://drimble.nl/bedrijf/den-haag/19962223",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Hadoks Acute zorg B.V.",
+          "plaats": "'s-Gravenhage",
+          "externalOrganizationId": "41155034",
+          "concernId": "4BF4E12E-B943-4DA0-8608-C2E72CDE3416",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+              "id": 103513,
+              "grootte": 4474725,
+              "gepubliceerd": "2026-06-30T15:08:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+              "id": 103514,
+              "grootte": 4474725,
+              "gepubliceerd": "2026-06-30T15:09:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+              "id": 103512,
+              "grootte": 4474725,
+              "gepubliceerd": "2026-06-30T15:07:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+              "id": 103516,
+              "grootte": 4474725,
+              "gepubliceerd": "2026-06-30T15:09:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+              "id": 103515,
+              "grootte": 4474725,
+              "gepubliceerd": "2026-06-30T15:09:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+              "id": 103517,
+              "grootte": 4474725,
+              "gepubliceerd": "2026-06-30T15:10:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Het Huisartsenteam",
+      "regios": [
+        {
+          "code": "R29",
+          "naam": "Regio Breda Etten-Leur",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": "01071173",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/zorggroep-het-huisartsenteam-bv-nl01071173",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Zorggroep Het Huisartsenteam B.V.",
+          "plaats": "Etten-Leur",
+          "externalOrganizationId": "20131108",
+          "concernId": "78A99D50-E376-459F-83FA-DC6BC9708068",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Zorggroep Het Huisartsenteam B.V. - Jaarrekening 2025 - 2026 06 08.pdf",
+              "id": 106748,
+              "grootte": 3492143,
+              "gepubliceerd": "2026-09-29T07:54:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "HKN Huisartsen",
+      "regios": [
+        {
+          "code": "R54",
+          "naam": "Regio kop van Noord-Holland",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": "59645156",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/activiteiten-van-financiele-holdings/hkn-huisartsen-b-v-schagen-59645156-000028916190",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Badhoevedorp",
+      "regios": [
+        {
+          "code": "R02",
+          "naam": "Regio Amsterdam",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "87618788",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/haarlemmermeer/badhoevedorp/badhoevedorp-west/2749769/huisartsen-badhoevedorp",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsencoöperatie Amstelland",
+      "regios": [
+        {
+          "code": "R26",
+          "naam": "Regio Amstelland",
+          "preferente_zorgverzekeraar": "Zorg en Zekerheid"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsencoöperatie De Baarsjes",
+      "regios": [
+        {
+          "code": "R02",
+          "naam": "Regio Amsterdam",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Coöperatie De LIMES",
+      "regios": [],
+      "kvk_nummer": "28088515",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/teylingen/voorhout/voorhout/339847/huisartsen-cooperatie-de-limes-u-a",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsencoöperatie Deventer e.o.",
+      "regios": [
+        {
+          "code": "R38",
+          "naam": "Regio Deventer Salland",
+          "preferente_zorgverzekeraar": "Salland Zorgverzekeraar"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsencoöperatie Flevoland (HCF)",
+      "regios": [
+        {
+          "code": "R03",
+          "naam": "Regio Flevoland Zwolle Vechtdal",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsencoöperatie West-Brabant",
+      "regios": [
+        {
+          "code": "R27",
+          "naam": "Regio West-Brabant",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": "67596606",
+      "kvk_bron": "https://drimble.nl/bedrijf/roosendaal/000036121274/huisartsencooperatie-west-brabant-ua.html",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Eemland Zorg B.V.",
+      "regios": [
+        {
+          "code": "R15",
+          "naam": "Regio Eemland",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "04421414",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/huisartsen-eemland-zorg-bv-nl04421414",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Huisartsen Eemland Zorg B.V.",
+          "plaats": "Amersfoort",
+          "externalOrganizationId": "67746357",
+          "concernId": "B20BE6D0-1162-498E-ABF6-2CCED2138C21",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Huisartsen Eemland B.V. - Jaarrekening met waarmerk incl verklaring.pdf",
+              "id": 99075,
+              "grootte": 1602646,
+              "gepubliceerd": "2026-05-29T10:16:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "01 Verstegen - WNT-verantwoordingsmodel 2025 - Zorg BV voor jaarverantw zorg.pdf",
+              "id": 100181,
+              "grootte": 258287,
+              "gepubliceerd": "2026-05-29T13:59:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Bestuursverslag 2025_Versie_definitief_28_mei 2026.pdf",
+              "id": 99109,
+              "grootte": 4581691,
+              "gepubliceerd": "2026-05-29T10:21:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Huisartsen Gelderse Vallei",
+      "regios": [
+        {
+          "code": "R36",
+          "naam": "Regio Gelderse Vallei",
+          "preferente_zorgverzekeraar": "Menzis + VGZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Oene-Epe",
+      "regios": [
+        {
+          "code": "R37",
+          "naam": "Regio Apeldoorn",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Oostelijk Zuid Limburg (HOZL)",
+      "regios": [
+        {
+          "code": "R41",
+          "naam": "Regio Oostelijk Zuid-Limburg",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Organisatie Noord-Kennemerland (HONK)",
+      "regios": [
+        {
+          "code": "R22",
+          "naam": "Regio Alkmaar Noord-Kennemerland",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenorganisatie Regio Zutphen (HRZu)",
+      "regios": [
+        {
+          "code": "R58",
+          "naam": "Regio Zutphen",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenorganisatie West-Friesland",
+      "regios": [
+        {
+          "code": "R23",
+          "naam": "Regio West-Friesland",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": "37097121",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/huisartsenzorg/cooperatie-huisartsenorganisatie-west-friesland-u-a-hoorn-37097121-000009732039",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenpraktijken Medi-Mere B.V.",
+      "regios": [
+        {
+          "code": "R01",
+          "naam": "Regio Almere",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "80449611",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/almere/almere-poort/europakwartier/2101618/huisartsenpraktijken-medi-mere-b-v",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Huisartsenpraktijken Medi-Mere B.V.",
+          "plaats": "Almere",
+          "externalOrganizationId": "80449611",
+          "concernId": "C0C18FF2-FD63-4D3A-90C3-64FFE6EF1872",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "HAP Medi Mere BV 2025.pdf",
+              "id": 99465,
+              "grootte": 1645657,
+              "gepubliceerd": "2026-05-29T11:47:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Huisartsen Regio Apeldoorn (HRA)",
+      "regios": [
+        {
+          "code": "R37",
+          "naam": "Regio Apeldoorn",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Utrecht Stad (HUS)",
+      "regios": [
+        {
+          "code": "R13",
+          "naam": "Regio Utrecht",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenvereniging Midden-Kennemerland",
+      "regios": [
+        {
+          "code": "R61",
+          "naam": "Regio Midden-Kennemerland",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenvereniging Regio Zwolle (HRZ)",
+      "regios": [
+        {
+          "code": "R03",
+          "naam": "Regio Flevoland Zwolle Vechtdal",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenvereniging Zoetermeer",
+      "regios": [
+        {
+          "code": "R09",
+          "naam": "Regio Zoetermeer",
+          "preferente_zorgverzekeraar": "CZ + Menzis"
+        }
+      ],
+      "kvk_nummer": "40412759",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/activiteiten-van-beroepsorganisaties/huisartsenvereniging-zoetermeer-en-omstreken-zoetermeer-40412759-404127590000",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisarts en Zorg",
+      "regios": [
+        {
+          "code": "R17",
+          "naam": "Regio Gorinchem",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Zorggroep Breda",
+      "regios": [
+        {
+          "code": "R29",
+          "naam": "Regio Breda Etten-Leur",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Huisartsen Zorggroep Breda e.o. B.V.",
+          "plaats": "Breda",
+          "externalOrganizationId": "20135110",
+          "concernId": "E9170FD6-D45C-4EF7-ADFD-D4B559D8D260",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Definitieve jaarrekening Huisartsen Zorggroep Breda e.o. B.V. 2025.pdf",
+              "id": 92843,
+              "grootte": 383058,
+              "gepubliceerd": "2026-05-21T13:22:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Definitieve jaarrekening Huisartsen Zorggroep Breda e.o. B.V. 2025.pdf",
+              "id": 92845,
+              "grootte": 383058,
+              "gepubliceerd": "2026-05-21T13:24:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "HuisartsenZorg Oost-Achterhoek (HZOA)",
+      "regios": [
+        {
+          "code": "R40",
+          "naam": "Regio Oost-Achterhoek",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenzorg Oude IJssel",
+      "regios": [
+        {
+          "code": "R39",
+          "naam": "Regio Oude IJssel",
+          "preferente_zorgverzekeraar": "Menzis + VGZ"
+        }
+      ],
+      "kvk_nummer": "09185095",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/overige-gezondheidszorg-zonder-verblijf-n-e-g/huisartsenzorg-oude-ijssel-b-v-doetinchem-09185095-000018949606",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenzorg Twente",
+      "regios": [
+        {
+          "code": "R32",
+          "naam": "Regio Twente",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": "08155584",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/overige-gezondheidszorg-zonder-verblijf-n-e-g/huisartsenzorg-twente-b-v-hengelo-08155584-000019206364",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsenzorg Zaanstreek Waterland (HZW)",
+      "regios": [
+        {
+          "code": "R24",
+          "naam": "Regio Zaanstreek-Waterland",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": true,
+      "vws_zoekterm": "Huisartsenzorg Zaanstreek Waterland",
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Huisartsenzorg Zaanstreek Waterland B.V.",
+          "plaats": "Wormer",
+          "externalOrganizationId": "68213239",
+          "concernId": "SP7FNE5MG8",
+          "documenten": [
+            {
+              "type": "Overig",
+              "bestand": "Toelichting inzake WNT-verantwoording HZW BV.pdf",
+              "id": 94612,
+              "grootte": 19785,
+              "gepubliceerd": "2026-05-27T07:37:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "Geconsolideerd verslag 2025 HZW.pdf",
+              "id": 94592,
+              "grootte": 19479303,
+              "gepubliceerd": "2026-05-27T07:24:00Z"
+            }
+          ],
+          "heeft_jaarrekening": false
+        }
+      ],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Huisartsen Zuid Kennemerland",
+      "regios": [
+        {
+          "code": "R21",
+          "naam": "Regio Zuid-Kennemerland",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Humo voor huisartsen",
+      "regios": [
+        {
+          "code": "R49",
+          "naam": "Regio Oss Uden Veghel",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Jeroen Bosch Huisartsen",
+      "regios": [
+        {
+          "code": "R46",
+          "naam": "Regio Den Bosch",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": "17218584",
+      "kvk_bron": "https://drimble.nl/bedrijf/den-bosch/19069537",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Jeroen Bosch Huisartsen B.V.",
+          "plaats": "Vught",
+          "externalOrganizationId": "17218584",
+          "concernId": "1130649C-C7CD-4756-A5F5-2F6B5C7BADBD",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "20260507 JBH - Def beoordelingsverklaring 2025.pdf",
+              "id": 102706,
+              "grootte": 234968,
+              "gepubliceerd": "2026-06-10T12:51:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "JBH jaarverslag 2025.pdf",
+              "id": 102707,
+              "grootte": 5134883,
+              "gepubliceerd": "2026-06-10T12:52:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "20260507 Jeroen Bosch Huisartsen B.V. Financieel verslag 2025 - Qgewaarmerkt.pdf",
+              "id": 102705,
+              "grootte": 374041,
+              "gepubliceerd": "2026-06-10T12:49:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "20260507 Def CV WNT 2025 JBH incl verantwoording.pdf",
+              "id": 102708,
+              "grootte": 374768,
+              "gepubliceerd": "2026-06-10T12:53:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Langs de Linde, vereniging voor eerstelijns zorg",
+      "regios": [
+        {
+          "code": "R06",
+          "naam": "Regio Friesland",
+          "preferente_zorgverzekeraar": "De Friesland + Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Medicamus",
+      "regios": [
+        {
+          "code": "R11",
+          "naam": "Regio Harderwijk",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "08150124",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/huisartsenzorg/huisartsen-cooperatie-medicamus-u-a-harderwijk-08150124-000014860430",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Medicamus Zorg B.V.",
+          "plaats": "Harderwijk",
+          "externalOrganizationId": "53760778",
+          "concernId": "HNXN74AMPF",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "ESH- Jaarrekening en verklaring Zorg 2025 gewaarmerkt en getekend[93].pdf",
+              "id": 104290,
+              "grootte": 8616485,
+              "gepubliceerd": "2026-07-24T10:23:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag RvC 2025.pdf",
+              "id": 104291,
+              "grootte": 63689,
+              "gepubliceerd": "2026-07-24T10:23:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        },
+        {
+          "naam_officieel": "Medicamus Spoedpost B.V.",
+          "plaats": "Harderwijk",
+          "externalOrganizationId": "53760387",
+          "concernId": "QAQY2PVTKP",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "ESH- Jaarrekening en verklaring Spoedpost 2025 gewaarmerkt en getekend[94].pdf",
+              "id": 104285,
+              "grootte": 10795002,
+              "gepubliceerd": "2026-07-24T08:32:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag RvC 2025.pdf",
+              "id": 104286,
+              "grootte": 63689,
+              "gepubliceerd": "2026-07-24T08:33:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Medicamus Academie",
+      "regios": [
+        {
+          "code": "R11",
+          "naam": "Regio Harderwijk",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "MEDiiS - Regio Zorg Midden-Holland B.V.",
+      "regios": [
+        {
+          "code": "R07",
+          "naam": "Regio Midden-Holland",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Medische Zorggroep Zuid-Oost",
+      "regios": [
+        {
+          "code": "R02",
+          "naam": "Regio Amsterdam",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": "32125467",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/amsterdam/frankendael/tuindorp-frankendael/3104639/huisartsen-coperatie-medzzo-medische-zorggroep-zuid-oost-u-a",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Meditta Zorg B.V.",
+      "regios": [
+        {
+          "code": "R44",
+          "naam": "Regio Westelijke Mijnstreek en Midden-Limburg",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": "00723052",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/meditta-zorg-bv-nl00723052",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Meditta Zorg B.V.",
+          "plaats": "Sittard",
+          "externalOrganizationId": "14125840",
+          "concernId": "A144187E-3D95-4D5B-AF9C-4426B0A30B9A",
+          "documenten": [
+            {
+              "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+              "bestand": "Meditta Zorg BV controleverklaring 2025.pdf",
+              "id": 105265,
+              "grootte": 421672,
+              "gepubliceerd": "2026-09-07T13:47:00Z"
+            },
+            {
+              "type": "Bestuursverslag",
+              "bestand": "Bestuursverslag 2025 - Meditta Zorg BV.pdf",
+              "id": 105266,
+              "grootte": 2585650,
+              "gepubliceerd": "2026-09-07T13:51:00Z"
+            },
+            {
+              "type": "Jaarrekening",
+              "bestand": "Jaarrekening 2025 met controleverklaring - Meditta Zorg BV (2) (7).pdf",
+              "id": 105264,
+              "grootte": 3367652,
+              "gepubliceerd": "2026-09-07T13:43:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "WNT verantwoording 2025 - Meditta Zorg BV.pdf",
+              "id": 105270,
+              "grootte": 59371,
+              "gepubliceerd": "2026-09-07T14:39:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag RvC 2025 - Meditta Zorg BV.pdf",
+              "id": 105269,
+              "grootte": 162171,
+              "gepubliceerd": "2026-09-07T14:34:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "NEO Huisartsenzorg",
+      "regios": [
+        {
+          "code": "R48",
+          "naam": "Regio Nijmegen",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": "81466366",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/overige-gezondheidszorg-zonder-verblijf-n-e-g/neo-huisartsenzorg-b-v-nijmegen-81466366-000047754303",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Nucleus Zorg B.V.",
+      "regios": [
+        {
+          "code": "R53",
+          "naam": "Regio Zeeuws Vlaanderen",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Onze Huisartsen",
+      "regios": [
+        {
+          "code": "R35",
+          "naam": "Regio Arnhem",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": "04073384",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/onze-huisartsen-bv-nl04073384",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "PrimaCura",
+      "regios": [
+        {
+          "code": "R31",
+          "naam": "Regio Midden-Brabant",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": "81383185",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/huisartsenzorg/primacura-huisartsenzorg-midden-brabant-b-v-tilburg-81383185-000047683767",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "PrimaCura Netwerkzorg B.V.",
+          "plaats": "Tilburg",
+          "externalOrganizationId": "17282852",
+          "concernId": "Y8XH3D6WJ8",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "2025 NWZ jaarrekening.pdf",
+              "id": 104084,
+              "grootte": 785896,
+              "gepubliceerd": "2026-07-16T11:30:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "2025 WNT verantwoording.pdf",
+              "id": 104086,
+              "grootte": 153755,
+              "gepubliceerd": "2026-07-16T11:34:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "2025 interne toezichthouder.pdf",
+              "id": 104085,
+              "grootte": 1023713,
+              "gepubliceerd": "2026-07-16T11:33:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        },
+        {
+          "naam_officieel": "PrimaCura Huisartsen Spoedpost B.V.",
+          "plaats": "Tilburg",
+          "externalOrganizationId": "18061125",
+          "concernId": "39NFPLGX83",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "20260529 Def Jrrk 2025 PrimaCura Huisartsen Spoedpost B.V. incl verklaring.pdf",
+              "id": 104041,
+              "grootte": 822477,
+              "gepubliceerd": "2026-07-15T06:37:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "PrimaCura Huisartsenzorg BV- WNT-2025.pdf",
+              "id": 92471,
+              "grootte": 259589,
+              "gepubliceerd": "2026-05-21T07:32:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "PrimaCura Huisartsen Spoedpost bv- Verslag interne toezichthouder 2025.pdf",
+              "id": 91803,
+              "grootte": 371882,
+              "gepubliceerd": "2026-05-19T08:52:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        },
+        {
+          "naam_officieel": "PrimaCura GGZ B.V.",
+          "plaats": "Eindhoven",
+          "externalOrganizationId": "62304844",
+          "concernId": "D82B77AD-74A8-4380-B2FB-7027326FEB47",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "PrimaCura GGZ B.V. jaarrekening 2025.pdf",
+              "id": 96380,
+              "grootte": 37346,
+              "gepubliceerd": "2026-05-28T09:32:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "PrimaCura GGZ - WNT-verantwoording 2025.pdf",
+              "id": 96390,
+              "grootte": 173177,
+              "gepubliceerd": "2026-05-28T09:33:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag_Interne_Toezichthouder_PrimaCura_GGZ_2025.pdf",
+              "id": 96388,
+              "grootte": 114249,
+              "gepubliceerd": "2026-05-28T09:33:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Regionale Huisartsen Organisatie Gooi & Omstreken (RHOGO)",
+      "regios": [
+        {
+          "code": "R16",
+          "naam": "Regio Gooi en Omstreken",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Regionale Ondersteuning Huisartsen Amsterdam (ROHA)",
+      "regios": [
+        {
+          "code": "R02",
+          "naam": "Regio Amsterdam",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": true,
+      "vws_zoekterm": "ROHA",
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "ROHA B.V.",
+          "plaats": "Amsterdam",
+          "externalOrganizationId": "34300232",
+          "concernId": "9P4L5H2F7P",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Jaarrekening ROHA BV 2025 - getekend.pdf",
+              "id": 96774,
+              "grootte": 9463121,
+              "gepubliceerd": "2026-05-28T11:19:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "WNT verantwoording 2025 jaarrekening ROHA def.pdf",
+              "id": 96803,
+              "grootte": 356213,
+              "gepubliceerd": "2026-05-28T11:26:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Jaarverantwoording Raad van Commissarissen 2025.pdf",
+              "id": 96794,
+              "grootte": 207536,
+              "gepubliceerd": "2026-05-28T11:24:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "Jaarrekening ROHA BV 2025 - getekend.pdf",
+              "id": 96806,
+              "grootte": 9463121,
+              "gepubliceerd": "2026-05-28T11:26:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Regio Zorg NU",
+      "regios": [
+        {
+          "code": "R14",
+          "naam": "Regio Noordwest-Utrecht",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Rijnmond Dokters",
+      "regios": [
+        {
+          "code": "R50",
+          "naam": "Regio Rotterdam Rijnmond",
+          "preferente_zorgverzekeraar": "Zilveren Kruis + CZ"
+        }
+      ],
+      "kvk_nummer": "03589842",
+      "kvk_bron": "https://www.creditsafe.com/business-index/nl-nl/company/rijnmond-dokters-oi-bv-nl03589842",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Rijnmond Dokters Holding B.V.",
+          "plaats": "Rotterdam",
+          "externalOrganizationId": "59494808",
+          "concernId": "GVCM6HJFTD",
+          "documenten": [
+            {
+              "type": "Verzameldocument",
+              "bestand": "JRK 2025 Rijnmond Dokters Holding BV was getekend (met waarmerk incl verklaring).pdf",
+              "id": 91690,
+              "grootte": 3352030,
+              "gepubliceerd": "2026-05-18T13:26:00Z"
+            }
+          ],
+          "heeft_jaarrekening": false
+        },
+        {
+          "naam_officieel": "Rijnmond Dokters O&I B.V.",
+          "plaats": "Rotterdam",
+          "externalOrganizationId": "59496983",
+          "concernId": "B26FE2B4-303C-418B-B59E-83027BDFB422",
+          "documenten": [
+            {
+              "type": "Verzameldocument",
+              "bestand": "JRK 2025 Rijnmond Dokters O&I BV was getekend (met waarmerk incl verklaring).pdf",
+              "id": 91689,
+              "grootte": 2933559,
+              "gepubliceerd": "2026-05-18T13:19:00Z"
+            }
+          ],
+          "heeft_jaarrekening": false
+        },
+        {
+          "naam_officieel": "Rijnmond Dokters Praktijkondersteuning B.V.",
+          "plaats": "Rotterdam",
+          "externalOrganizationId": "59497025",
+          "concernId": "GN4FKEFLU7",
+          "documenten": [
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Jaarverslag RvC 2025.pdf",
+              "id": 91681,
+              "grootte": 673474,
+              "gepubliceerd": "2026-05-18T13:10:00Z"
+            },
+            {
+              "type": "Verzameldocument",
+              "bestand": "JRK 2025 Rijnmond Dokters Praktijkondersteuning BV was getekend (met waarmerk incl verklaring).pdf",
+              "id": 91679,
+              "grootte": 999991,
+              "gepubliceerd": "2026-05-18T13:07:00Z"
+            }
+          ],
+          "heeft_jaarrekening": false
+        }
+      ],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Stichting Zorggroep Almere",
+      "regios": [
+        {
+          "code": "R01",
+          "naam": "Regio Almere",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Syntein",
+      "regios": [
+        {
+          "code": "R47",
+          "naam": "Regio Noordelijke Maasvallei",
+          "preferente_zorgverzekeraar": "VGZ + CZ"
+        }
+      ],
+      "kvk_nummer": "17213320",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/boxmeer/beugen/verspreide-huizen-beugen/902030/syntein-b-v",
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Syntein Integrale Zorg B.V.",
+          "plaats": "Boxmeer",
+          "externalOrganizationId": "17213320",
+          "concernId": "86C48574-1779-41A7-803B-12F6E5D108A1",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Jaarrekening 2025 Syntein Integrale Zorg BV getekend door de klant.pdf",
+              "id": 93300,
+              "grootte": 2442778,
+              "gepubliceerd": "2026-05-22T14:51:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "Def WNT verantwoording IZ BV 2025.pdf",
+              "id": 93302,
+              "grootte": 168588,
+              "gepubliceerd": "2026-05-22T14:54:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "Verslag RvC 2025_conform_criteria_NZA_signed.pdf",
+              "id": 93301,
+              "grootte": 540046,
+              "gepubliceerd": "2026-05-22T14:52:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Twentse Huisartsen Onderneming Oost Nederland (SHT-THOON)",
+      "regios": [
+        {
+          "code": "R33",
+          "naam": "Regio Twente-Oost (OUD)",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "UNICUM Lekstroom",
+      "regios": [
+        {
+          "code": "R59",
+          "naam": "Regio Utrecht Lekstroom",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "UNICUM Zuidoost-Utrecht",
+      "regios": [
+        {
+          "code": "R12",
+          "naam": "Regio Zuidoost-Utrecht",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "ZIO Zorg in Ontwikkeling",
+      "regios": [
+        {
+          "code": "R43",
+          "naam": "Regio Maastricht Heuvelland",
+          "preferente_zorgverzekeraar": "VGZ"
+        }
+      ],
+      "kvk_nummer": "14087664",
+      "kvk_bron": "https://companyinfo.nl/organisatieprofiel/huisartsenzorg/stichting-zio-zorg-in-ontwikkeling-maastricht-14087664-140876640000",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Zorggroep Gelders Rivierenland",
+      "regios": [
+        {
+          "code": "R34",
+          "naam": "Regio Gelders Rivierenland",
+          "preferente_zorgverzekeraar": "Menzis"
+        }
+      ],
+      "kvk_nummer": "62363158",
+      "kvk_bron": "https://www.oozo.nl/bedrijven/neder-betuwe/echteld/verspreide-huizen-ochten/1068767/zorggroep-gelders-rivierenland-b-v",
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Zorggroep Haarlemmermeer",
+      "regios": [
+        {
+          "code": "R25",
+          "naam": "Regio Haarlemmermeer",
+          "preferente_zorgverzekeraar": "Zorg en Zekerheid"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": true,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Zorggroep Haarlemmermeer B.V.",
+          "plaats": "Hoofddorp",
+          "externalOrganizationId": "73745774",
+          "concernId": "6353C442-9016-49F7-8DD9-A2040FBFA9DC",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "jrek 2025 Zorggroep Haarlemmermeer BV ondertekend.pdf",
+              "id": 92933,
+              "grootte": 2225028,
+              "gepubliceerd": "2026-05-21T15:33:00Z"
+            },
+            {
+              "type": "Overig",
+              "bestand": "jrek 2025 Zorggroep Haarlemmermeer BV ondertekend.pdf",
+              "id": 92935,
+              "grootte": 2225028,
+              "gepubliceerd": "2026-05-21T15:34:00Z"
+            },
+            {
+              "type": "Verslag interne toezichthouder",
+              "bestand": "jrek 2025 Zorggroep Haarlemmermeer BV ondertekend.pdf",
+              "id": 92934,
+              "grootte": 2225028,
+              "gepubliceerd": "2026-05-21T15:33:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Zorggroep Hoeksewaard (ZGHW)",
+      "regios": [
+        {
+          "code": "R60",
+          "naam": "Regio Hoeksewaard",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": true,
+      "vws_zoekterm": "Zorggroep Hoeksewaard",
+      "vws_zorgaanbieders": [
+        {
+          "naam_officieel": "Coöperatie Zorggroep Hoeksewaard U.A.",
+          "plaats": "Klaaswaal",
+          "externalOrganizationId": "51348411",
+          "concernId": "XKMPHK42RZ",
+          "documenten": [
+            {
+              "type": "Jaarrekening",
+              "bestand": "Coöperatie Zorggroep Hoeksewaard U.A. - Jaarrekening 2025 - 2026 06 03.pdf",
+              "id": 106671,
+              "grootte": 3499580,
+              "gepubliceerd": "2026-09-28T15:26:00Z"
+            }
+          ],
+          "heeft_jaarrekening": true
+        }
+      ],
+      "jaarrekening_2025_aanwezig": true
+    },
+    {
+      "rho_naam": "Zorggroep Ridderkerk",
+      "regios": [
+        {
+          "code": "R18",
+          "naam": "Regio Ridderkerk",
+          "preferente_zorgverzekeraar": "CZ"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    },
+    {
+      "rho_naam": "Zorg voor zuid",
+      "regios": [
+        {
+          "code": "R02",
+          "naam": "Regio Amsterdam",
+          "preferente_zorgverzekeraar": "Zilveren Kruis"
+        }
+      ],
+      "kvk_nummer": null,
+      "kvk_bron": null,
+      "vws_gevonden": false,
+      "vws_zoekterm": null,
+      "vws_zorgaanbieders": [],
+      "jaarrekening_2025_aanwezig": false
+    }
+  ]
+}

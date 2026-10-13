@@ -1,0 +1,16 @@
+# secrets
+.env
+.env.*
+.credentials.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# backups and bulky archive
+*.bak
+.archief/*.vsix
+
+# local agent state
+.claude/settings.local.json

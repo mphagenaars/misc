@@ -1,0 +1,1368 @@
+{
+ "Alphense Huisartsen Coöperatie": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Arts en Zorg": {
+  "gevonden": [
+   {
+    "naam_officieel": "Arts en Zorg B.V.",
+    "plaats": "Utrecht",
+    "externalOrganizationId": "32104230",
+    "concernId": "XKWU8K53A2",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "controleverklaring-arts-en-zorg-b-v--signed-by-copy.pdf",
+      "id": 102276,
+      "grootte": 120304,
+      "gepubliceerd": "2026-06-03T20:42:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "AZ Bestuursverslag 2025 DEF.pdf",
+      "id": 100451,
+      "grootte": 100263,
+      "gepubliceerd": "2026-05-29T15:31:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "Jaarrekening 2025 Arts en Zorg B.V..pdf",
+      "id": 102148,
+      "grootte": 629293,
+      "gepubliceerd": "2026-06-02T14:51:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag RvC AenZ Zorgbedrijf Holding jaarrekening 2025.pdf",
+      "id": 100452,
+      "grootte": 38371,
+      "gepubliceerd": "2026-05-29T15:32:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Charis": {
+  "gevonden": [
+   {
+    "naam_officieel": "Charis",
+    "plaats": "Beneden-Leeuwen",
+    "externalOrganizationId": "78249562",
+    "concernId": "8341A53F-0C93-40D2-9B35-61595E4504C6",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Cohesie Huisartsenzorg": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Cooperatie Dokterscoop U.A.": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Coöperatie Pozob U.A.": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Coöperatieve Huisartsengroep Haaksbergen": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Coöperatieve Huisartsenvereniging Gelders Rivierenland (CHVGR)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Coöperatieve Vereniging Vrijgevestigde Huisartsen Almere": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "De huisartsenconnectie": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Delta Dokters": {
+  "gevonden": [
+   {
+    "naam_officieel": "Delta Dokters B.V.",
+    "plaats": "Rockanje",
+    "externalOrganizationId": "24484577",
+    "concernId": "A0FE92F8-B481-4E27-8B5D-16991F486D92",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "20260526 Jaarrekening 2025 Delta Dokters B.V.pdf",
+      "id": 94106,
+      "grootte": 3354776,
+      "gepubliceerd": "2026-05-26T12:47:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "20260526 WNT verantwoording 2025 bijlage van Jaarrekening Delta Dokters B.V.pdf",
+      "id": 94125,
+      "grootte": 3354571,
+      "gepubliceerd": "2026-05-26T12:51:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "20260519 WTZA 2025 Jaarverantwoording intern toezicht Delta Dokters.pdf",
+      "id": 94126,
+      "grootte": 91541,
+      "gepubliceerd": "2026-05-26T12:52:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Dokter Drenthe": {
+  "gevonden": [
+   {
+    "naam_officieel": "Dokter Drenthe Innovatie B.V.",
+    "plaats": "Assen",
+    "externalOrganizationId": "51328607",
+    "concernId": "22959885-99F1-4872-B2DA-48BE15F60C65",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Dokter Drenthe Innovatie 2025 definitieve jaarrekening.pdf",
+      "id": 106717,
+      "grootte": 301319,
+      "gepubliceerd": "2026-09-29T06:13:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 106720,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-09-29T06:15:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 106719,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-09-29T06:14:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "Dokter Drenthe B.V.",
+    "plaats": "Assen",
+    "externalOrganizationId": "01142002",
+    "concernId": "BB785C1F-1BF9-4517-B541-780AA825C197",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "1432 1098499 Dokter Drenthe B.V. - Controleverklaring 2025.pdf",
+      "id": 103401,
+      "grootte": 259767,
+      "gepubliceerd": "2026-06-29T07:10:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 103406,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-06-29T07:33:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 103398,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-06-29T07:08:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 103408,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-06-29T07:34:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 103407,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-06-29T07:34:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "Dokter Drenthe BV 2025 definitieve jaarrekening.pdf",
+      "id": 103410,
+      "grootte": 1580437,
+      "gepubliceerd": "2026-06-29T07:34:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "Stichting Dokter Drenthe",
+    "plaats": "Assen",
+    "externalOrganizationId": "04063339",
+    "concernId": "QAJ4BPZG23",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Stichting Dokter Drenthe 2025 definitieve jaarrekening.pdf",
+      "id": 106007,
+      "grootte": 1757530,
+      "gepubliceerd": "2026-09-22T10:56:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Stichting Dokter Drenthe 2025 definitieve jaarrekening.pdf",
+      "id": 106009,
+      "grootte": 1757530,
+      "gepubliceerd": "2026-09-22T10:57:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Stichting Dokter Drenthe 2025 definitieve jaarrekening.pdf",
+      "id": 106008,
+      "grootte": 1757530,
+      "gepubliceerd": "2026-09-22T10:57:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 3
+ },
+ "Dokterszorg Friesland B.V.": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "DrechtDokters": {
+  "gevonden": [
+   {
+    "naam_officieel": "DrechtDokters Care B.V.",
+    "plaats": "Hendrik-Ido-Ambacht",
+    "externalOrganizationId": "24448009",
+    "concernId": "5503179F-BE64-47B6-9D6C-C66B827CFB55",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "Care - Accountantsverklaring 2025.pdf",
+      "id": 92113,
+      "grootte": 3017202,
+      "gepubliceerd": "2026-05-20T08:12:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "Bestuursverslag.PDF",
+      "id": 92114,
+      "grootte": 4439510,
+      "gepubliceerd": "2026-05-20T08:13:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "Care - Jaarrekening.pdf",
+      "id": 92112,
+      "grootte": 1721200,
+      "gepubliceerd": "2026-05-20T08:11:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Care - WNT.pdf",
+      "id": 92116,
+      "grootte": 823259,
+      "gepubliceerd": "2026-05-20T08:13:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Care - WNT.pdf",
+      "id": 92118,
+      "grootte": 823259,
+      "gepubliceerd": "2026-05-20T08:14:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag Interne toezichthouder.PDF",
+      "id": 92115,
+      "grootte": 717629,
+      "gepubliceerd": "2026-05-20T08:13:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "Care - Jaarstukken 2025 DrechtDokters Care BV - was getekend en gewaarmerkt incl controleverklaring.pdf",
+      "id": 92117,
+      "grootte": 1889358,
+      "gepubliceerd": "2026-05-20T08:13:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "DrechtDokters Huisartsenpost B.V.",
+    "plaats": "Dordrecht",
+    "externalOrganizationId": "61221015",
+    "concernId": "873675A6-EB68-4E68-A687-232DDB59FDB3",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "Accountantsverklaring HAP 2025.pdf",
+      "id": 92088,
+      "grootte": 3037056,
+      "gepubliceerd": "2026-05-20T07:03:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "Bestuursverslag.PDF",
+      "id": 92089,
+      "grootte": 4439510,
+      "gepubliceerd": "2026-05-20T07:03:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "Jaarrekening HAP 2025.pdf",
+      "id": 92087,
+      "grootte": 1800170,
+      "gepubliceerd": "2026-05-20T07:03:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "WNT.pdf",
+      "id": 92091,
+      "grootte": 688713,
+      "gepubliceerd": "2026-05-20T07:04:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag Interne toezichthouder.PDF",
+      "id": 92090,
+      "grootte": 717629,
+      "gepubliceerd": "2026-05-20T07:04:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "Jaarstukken 2025 DrechtDokters Huisartsenpost BV - was getekend met waarmerk en incl controleverklaring.pdf",
+      "id": 92092,
+      "grootte": 1829059,
+      "gepubliceerd": "2026-05-20T07:05:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 2
+ },
+ "Elan Huisartsen": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Elann": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Groninger Huisartsen Coöperatie (GHC)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Hadoks": {
+  "gevonden": [
+   {
+    "naam_officieel": "Hadoks Acute zorg B.V.",
+    "plaats": "'s-Gravenhage",
+    "externalOrganizationId": "41155034",
+    "concernId": "4BF4E12E-B943-4DA0-8608-C2E72CDE3416",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+      "id": 103513,
+      "grootte": 4474725,
+      "gepubliceerd": "2026-06-30T15:08:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+      "id": 103514,
+      "grootte": 4474725,
+      "gepubliceerd": "2026-06-30T15:09:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+      "id": 103512,
+      "grootte": 4474725,
+      "gepubliceerd": "2026-06-30T15:07:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+      "id": 103516,
+      "grootte": 4474725,
+      "gepubliceerd": "2026-06-30T15:09:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+      "id": 103515,
+      "grootte": 4474725,
+      "gepubliceerd": "2026-06-30T15:09:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "Hadoks AZ - definitief jaarverslag 2025 met ondertekening - gewaarmerkt incl controleverklaring.pdf",
+      "id": 103517,
+      "grootte": 4474725,
+      "gepubliceerd": "2026-06-30T15:10:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Het Huisartsenteam": {
+  "gevonden": [
+   {
+    "naam_officieel": "Het Huisartsenteam Poppelaars-te Riele",
+    "plaats": "Breda",
+    "externalOrganizationId": "20162627",
+    "concernId": "EFA76B53-7BC5-4AAF-BA33-0DA8ECFB4791",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Zundert",
+    "plaats": "Zundert",
+    "externalOrganizationId": "89858409",
+    "concernId": "3B80D0CB-E761-4C20-83A5-B2BF62213185",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Zorggroep Het Huisartsenteam B.V.",
+    "plaats": "Etten-Leur",
+    "externalOrganizationId": "20131108",
+    "concernId": "78A99D50-E376-459F-83FA-DC6BC9708068",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Zorggroep Het Huisartsenteam B.V. - Jaarrekening 2025 - 2026 06 08.pdf",
+      "id": 106748,
+      "grootte": 3492143,
+      "gepubliceerd": "2026-09-29T07:54:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Ginnekenweg",
+    "plaats": "Breda",
+    "externalOrganizationId": "20156102",
+    "concernId": "C2D3482D-D374-4AA3-9907-4995923A02B7",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Nassaulaan",
+    "plaats": "Etten-Leur",
+    "externalOrganizationId": "20155504",
+    "concernId": "B90BE93C-4898-456F-A2CF-12A794A35F3D",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Philips & Weitering",
+    "plaats": "Oudenbosch",
+    "externalOrganizationId": "70979243",
+    "concernId": "64D4263B-5917-4CAA-93C5-F6E4A4E70CFD",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Roothans",
+    "plaats": "Breda",
+    "externalOrganizationId": "20155924",
+    "concernId": "B510DB74-F198-435B-8BCD-59692CF50A22",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Heusdenhout",
+    "plaats": "Breda",
+    "externalOrganizationId": "94985219",
+    "concernId": "273PVX9JDR",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam de Uiterwaard B.V.",
+    "plaats": "Etten-Leur",
+    "externalOrganizationId": "97346047",
+    "concernId": "VBP6TASKDH",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Van Beek-Schrijnemaekers",
+    "plaats": "Breda",
+    "externalOrganizationId": "80139094",
+    "concernId": "ED30608F-EA48-4287-AACC-C7583CAF5C0D",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Emmastraat",
+    "plaats": "St. Willebrord",
+    "externalOrganizationId": "92740294",
+    "concernId": "D9TMJWPPDJ",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Mts.Het Huisartsenteam Hoeven Terpstra en Schrauwen",
+    "plaats": "Hoeven",
+    "externalOrganizationId": "86559850",
+    "concernId": "13A9BE25-5907-43FA-A733-6DAB08636BF0",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Noviciaatlaan",
+    "plaats": "Oudenbosch",
+    "externalOrganizationId": "20154460",
+    "concernId": "C447BCD2-F296-4673-AEFA-7AC25F855631",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Het Huisartsenteam Hoeven D.S. Maat en M.L. van Hooff",
+    "plaats": "Hoeven",
+    "externalOrganizationId": "53740475",
+    "concernId": "F1F9AF53-8303-42A9-ABD4-7EEA01949A78",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 14
+ },
+ "HKN Huisartsen": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Badhoevedorp": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsencoöperatie Amstelland": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsencoöperatie De Baarsjes": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Coöperatie De LIMES": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsencoöperatie Deventer e.o.": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsencoöperatie Flevoland (HCF)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsencoöperatie West-Brabant": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Eemland Zorg B.V.": {
+  "gevonden": [
+   {
+    "naam_officieel": "Huisartsen Eemland Zorg B.V.",
+    "plaats": "Amersfoort",
+    "externalOrganizationId": "67746357",
+    "concernId": "B20BE6D0-1162-498E-ABF6-2CCED2138C21",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Huisartsen Eemland B.V. - Jaarrekening met waarmerk incl verklaring.pdf",
+      "id": 99075,
+      "grootte": 1602646,
+      "gepubliceerd": "2026-05-29T10:16:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "01 Verstegen - WNT-verantwoordingsmodel 2025 - Zorg BV voor jaarverantw zorg.pdf",
+      "id": 100181,
+      "grootte": 258287,
+      "gepubliceerd": "2026-05-29T13:59:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Bestuursverslag 2025_Versie_definitief_28_mei 2026.pdf",
+      "id": 99109,
+      "grootte": 4581691,
+      "gepubliceerd": "2026-05-29T10:21:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Huisartsen Gelderse Vallei": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Oene-Epe": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Oostelijk Zuid Limburg (HOZL)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Organisatie Noord-Kennemerland (HONK)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenorganisatie Regio Zutphen (HRZu)": {
+  "gevonden": [
+   {
+    "naam_officieel": "Zorgmaatje aan Huis regio Zutphen",
+    "plaats": "Zutphen",
+    "externalOrganizationId": "88096718",
+    "concernId": "9XGJ8FGND8",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 1,
+  "zoekterm": "Regio Zutphen"
+ },
+ "Huisartsenorganisatie West-Friesland": {
+  "gevonden": [
+   {
+    "naam_officieel": "Apotheek West-Friesland B.V.",
+    "plaats": "Spanbroek",
+    "externalOrganizationId": "37127715",
+    "concernId": "44ED413A-BF8C-474B-8406-38AFB0F35A25",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Apotheek West-Friesland B.V. - definitieve jaarrekening 2025.pdf",
+      "id": 106555,
+      "grootte": 485126,
+      "gepubliceerd": "2026-09-28T11:58:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "Stichting SportMedisch Adviescentrum West-Friesland - Waterland",
+    "plaats": "Hoorn",
+    "externalOrganizationId": "65776712",
+    "concernId": "N7GZ7EV6VB",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Praktijk Podotherapie West-Friesland B.V.",
+    "plaats": "Medemblik",
+    "externalOrganizationId": "66959411",
+    "concernId": "A2C7DF5A-8283-4F17-B201-CEA20E796330",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 3,
+  "zoekterm": "West-Friesland"
+ },
+ "Huisartsenpraktijken Medi-Mere B.V.": {
+  "gevonden": [
+   {
+    "naam_officieel": "Huisartsenpraktijken Medi-Mere B.V.",
+    "plaats": "Almere",
+    "externalOrganizationId": "80449611",
+    "concernId": "C0C18FF2-FD63-4D3A-90C3-64FFE6EF1872",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "HAP Medi Mere BV 2025.pdf",
+      "id": 99465,
+      "grootte": 1645657,
+      "gepubliceerd": "2026-05-29T11:47:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Huisartsen Regio Apeldoorn (HRA)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Utrecht Stad (HUS)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenvereniging Midden-Kennemerland": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenvereniging Regio Zwolle (HRZ)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenvereniging Zoetermeer": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisarts en Zorg": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsen Zorggroep Breda": {
+  "gevonden": [
+   {
+    "naam_officieel": "Huisartsen Zorggroep Breda e.o. B.V.",
+    "plaats": "Breda",
+    "externalOrganizationId": "20135110",
+    "concernId": "E9170FD6-D45C-4EF7-ADFD-D4B559D8D260",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Definitieve jaarrekening Huisartsen Zorggroep Breda e.o. B.V. 2025.pdf",
+      "id": 92843,
+      "grootte": 383058,
+      "gepubliceerd": "2026-05-21T13:22:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Definitieve jaarrekening Huisartsen Zorggroep Breda e.o. B.V. 2025.pdf",
+      "id": 92845,
+      "grootte": 383058,
+      "gepubliceerd": "2026-05-21T13:24:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "HuisartsenZorg Oost-Achterhoek (HZOA)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenzorg Oude IJssel": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenzorg Twente": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Huisartsenzorg Zaanstreek Waterland (HZW)": {
+  "gevonden": [
+   {
+    "naam_officieel": "Huisartsenzorg Zaanstreek Waterland B.V.",
+    "plaats": "Wormer",
+    "externalOrganizationId": "68213239",
+    "concernId": "SP7FNE5MG8",
+    "documenten": [
+     {
+      "type": "Overig",
+      "bestand": "Toelichting inzake WNT-verantwoording HZW BV.pdf",
+      "id": 94612,
+      "grootte": 19785,
+      "gepubliceerd": "2026-05-27T07:37:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "Geconsolideerd verslag 2025 HZW.pdf",
+      "id": 94592,
+      "grootte": 19479303,
+      "gepubliceerd": "2026-05-27T07:24:00Z"
+     }
+    ],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 1,
+  "zoekterm": "Huisartsenzorg Zaanstreek Waterland"
+ },
+ "Huisartsen Zuid Kennemerland": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Humo voor huisartsen": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Jeroen Bosch Huisartsen": {
+  "gevonden": [
+   {
+    "naam_officieel": "Jeroen Bosch Huisartsen B.V.",
+    "plaats": "Vught",
+    "externalOrganizationId": "17218584",
+    "concernId": "1130649C-C7CD-4756-A5F5-2F6B5C7BADBD",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "20260507 JBH - Def beoordelingsverklaring 2025.pdf",
+      "id": 102706,
+      "grootte": 234968,
+      "gepubliceerd": "2026-06-10T12:51:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "JBH jaarverslag 2025.pdf",
+      "id": 102707,
+      "grootte": 5134883,
+      "gepubliceerd": "2026-06-10T12:52:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "20260507 Jeroen Bosch Huisartsen B.V. Financieel verslag 2025 - Qgewaarmerkt.pdf",
+      "id": 102705,
+      "grootte": 374041,
+      "gepubliceerd": "2026-06-10T12:49:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "20260507 Def CV WNT 2025 JBH incl verantwoording.pdf",
+      "id": 102708,
+      "grootte": 374768,
+      "gepubliceerd": "2026-06-10T12:53:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Langs de Linde, vereniging voor eerstelijns zorg": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Medicamus": {
+  "gevonden": [
+   {
+    "naam_officieel": "Medicamus Zorg B.V.",
+    "plaats": "Harderwijk",
+    "externalOrganizationId": "53760778",
+    "concernId": "HNXN74AMPF",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "ESH- Jaarrekening en verklaring Zorg 2025 gewaarmerkt en getekend[93].pdf",
+      "id": 104290,
+      "grootte": 8616485,
+      "gepubliceerd": "2026-07-24T10:23:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag RvC 2025.pdf",
+      "id": 104291,
+      "grootte": 63689,
+      "gepubliceerd": "2026-07-24T10:23:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "Medicamus Spoedpost B.V.",
+    "plaats": "Harderwijk",
+    "externalOrganizationId": "53760387",
+    "concernId": "QAQY2PVTKP",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "ESH- Jaarrekening en verklaring Spoedpost 2025 gewaarmerkt en getekend[94].pdf",
+      "id": 104285,
+      "grootte": 10795002,
+      "gepubliceerd": "2026-07-24T08:32:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag RvC 2025.pdf",
+      "id": 104286,
+      "grootte": 63689,
+      "gepubliceerd": "2026-07-24T08:33:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 2
+ },
+ "Medicamus Academie": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "MEDiiS - Regio Zorg Midden-Holland B.V.": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Medische Zorggroep Zuid-Oost": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Meditta Zorg B.V.": {
+  "gevonden": [
+   {
+    "naam_officieel": "Meditta Zorg B.V.",
+    "plaats": "Sittard",
+    "externalOrganizationId": "14125840",
+    "concernId": "A144187E-3D95-4D5B-AF9C-4426B0A30B9A",
+    "documenten": [
+     {
+      "type": "Accountantsverklaring (controle-, beoordelings- of samenstellingsverklaring)",
+      "bestand": "Meditta Zorg BV controleverklaring 2025.pdf",
+      "id": 105265,
+      "grootte": 421672,
+      "gepubliceerd": "2026-09-07T13:47:00Z"
+     },
+     {
+      "type": "Bestuursverslag",
+      "bestand": "Bestuursverslag 2025 - Meditta Zorg BV.pdf",
+      "id": 105266,
+      "grootte": 2585650,
+      "gepubliceerd": "2026-09-07T13:51:00Z"
+     },
+     {
+      "type": "Jaarrekening",
+      "bestand": "Jaarrekening 2025 met controleverklaring - Meditta Zorg BV (2) (7).pdf",
+      "id": 105264,
+      "grootte": 3367652,
+      "gepubliceerd": "2026-09-07T13:43:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "WNT verantwoording 2025 - Meditta Zorg BV.pdf",
+      "id": 105270,
+      "grootte": 59371,
+      "gepubliceerd": "2026-09-07T14:39:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag RvC 2025 - Meditta Zorg BV.pdf",
+      "id": 105269,
+      "grootte": 162171,
+      "gepubliceerd": "2026-09-07T14:34:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "NEO Huisartsenzorg": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Nucleus Zorg B.V.": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Onze Huisartsen": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "PrimaCura": {
+  "gevonden": [
+   {
+    "naam_officieel": "PrimaCura Netwerkzorg B.V.",
+    "plaats": "Tilburg",
+    "externalOrganizationId": "17282852",
+    "concernId": "Y8XH3D6WJ8",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "2025 NWZ jaarrekening.pdf",
+      "id": 104084,
+      "grootte": 785896,
+      "gepubliceerd": "2026-07-16T11:30:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "2025 WNT verantwoording.pdf",
+      "id": 104086,
+      "grootte": 153755,
+      "gepubliceerd": "2026-07-16T11:34:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "2025 interne toezichthouder.pdf",
+      "id": 104085,
+      "grootte": 1023713,
+      "gepubliceerd": "2026-07-16T11:33:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "PrimaCura Huisartsen Spoedpost B.V.",
+    "plaats": "Tilburg",
+    "externalOrganizationId": "18061125",
+    "concernId": "39NFPLGX83",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "20260529 Def Jrrk 2025 PrimaCura Huisartsen Spoedpost B.V. incl verklaring.pdf",
+      "id": 104041,
+      "grootte": 822477,
+      "gepubliceerd": "2026-07-15T06:37:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "PrimaCura Huisartsenzorg BV- WNT-2025.pdf",
+      "id": 92471,
+      "grootte": 259589,
+      "gepubliceerd": "2026-05-21T07:32:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "PrimaCura Huisartsen Spoedpost bv- Verslag interne toezichthouder 2025.pdf",
+      "id": 91803,
+      "grootte": 371882,
+      "gepubliceerd": "2026-05-19T08:52:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   },
+   {
+    "naam_officieel": "PrimaCura GGZ B.V.",
+    "plaats": "Eindhoven",
+    "externalOrganizationId": "62304844",
+    "concernId": "D82B77AD-74A8-4380-B2FB-7027326FEB47",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "PrimaCura GGZ B.V. jaarrekening 2025.pdf",
+      "id": 96380,
+      "grootte": 37346,
+      "gepubliceerd": "2026-05-28T09:32:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "PrimaCura GGZ - WNT-verantwoording 2025.pdf",
+      "id": 96390,
+      "grootte": 173177,
+      "gepubliceerd": "2026-05-28T09:33:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag_Interne_Toezichthouder_PrimaCura_GGZ_2025.pdf",
+      "id": 96388,
+      "grootte": 114249,
+      "gepubliceerd": "2026-05-28T09:33:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 3
+ },
+ "Regionale Huisartsen Organisatie Gooi & Omstreken (RHOGO)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Regionale Ondersteuning Huisartsen Amsterdam (ROHA)": {
+  "gevonden": [
+   {
+    "naam_officieel": "ROHA B.V.",
+    "plaats": "Amsterdam",
+    "externalOrganizationId": "34300232",
+    "concernId": "9P4L5H2F7P",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Jaarrekening ROHA BV 2025 - getekend.pdf",
+      "id": 96774,
+      "grootte": 9463121,
+      "gepubliceerd": "2026-05-28T11:19:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "WNT verantwoording 2025 jaarrekening ROHA def.pdf",
+      "id": 96803,
+      "grootte": 356213,
+      "gepubliceerd": "2026-05-28T11:26:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Jaarverantwoording Raad van Commissarissen 2025.pdf",
+      "id": 96794,
+      "grootte": 207536,
+      "gepubliceerd": "2026-05-28T11:24:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "Jaarrekening ROHA BV 2025 - getekend.pdf",
+      "id": 96806,
+      "grootte": 9463121,
+      "gepubliceerd": "2026-05-28T11:26:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 2,
+  "zoekterm": "ROHA"
+ },
+ "Regio Zorg NU": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Rijnmond Dokters": {
+  "gevonden": [
+   {
+    "naam_officieel": "Rijnmond Dokters Holding B.V.",
+    "plaats": "Rotterdam",
+    "externalOrganizationId": "59494808",
+    "concernId": "GVCM6HJFTD",
+    "documenten": [
+     {
+      "type": "Verzameldocument",
+      "bestand": "JRK 2025 Rijnmond Dokters Holding BV was getekend (met waarmerk incl verklaring).pdf",
+      "id": 91690,
+      "grootte": 3352030,
+      "gepubliceerd": "2026-05-18T13:26:00Z"
+     }
+    ],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Rijnmond Dokters O&I B.V.",
+    "plaats": "Rotterdam",
+    "externalOrganizationId": "59496983",
+    "concernId": "B26FE2B4-303C-418B-B59E-83027BDFB422",
+    "documenten": [
+     {
+      "type": "Verzameldocument",
+      "bestand": "JRK 2025 Rijnmond Dokters O&I BV was getekend (met waarmerk incl verklaring).pdf",
+      "id": 91689,
+      "grootte": 2933559,
+      "gepubliceerd": "2026-05-18T13:19:00Z"
+     }
+    ],
+    "heeft_jaarrekening": false
+   },
+   {
+    "naam_officieel": "Rijnmond Dokters Praktijkondersteuning B.V.",
+    "plaats": "Rotterdam",
+    "externalOrganizationId": "59497025",
+    "concernId": "GN4FKEFLU7",
+    "documenten": [
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Jaarverslag RvC 2025.pdf",
+      "id": 91681,
+      "grootte": 673474,
+      "gepubliceerd": "2026-05-18T13:10:00Z"
+     },
+     {
+      "type": "Verzameldocument",
+      "bestand": "JRK 2025 Rijnmond Dokters Praktijkondersteuning BV was getekend (met waarmerk incl verklaring).pdf",
+      "id": 91679,
+      "grootte": 999991,
+      "gepubliceerd": "2026-05-18T13:07:00Z"
+     }
+    ],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 3
+ },
+ "Stichting Zorggroep Almere": {
+  "gevonden": [
+   {
+    "naam_officieel": "Stichting Zorggroep Almere",
+    "plaats": "Almere",
+    "externalOrganizationId": "39071815",
+    "concernId": "NZA7CE2Y4R",
+    "documenten": [],
+    "heeft_jaarrekening": false
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Syntein": {
+  "gevonden": [
+   {
+    "naam_officieel": "Syntein Integrale Zorg B.V.",
+    "plaats": "Boxmeer",
+    "externalOrganizationId": "17213320",
+    "concernId": "86C48574-1779-41A7-803B-12F6E5D108A1",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Jaarrekening 2025 Syntein Integrale Zorg BV getekend door de klant.pdf",
+      "id": 93300,
+      "grootte": 2442778,
+      "gepubliceerd": "2026-05-22T14:51:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "Def WNT verantwoording IZ BV 2025.pdf",
+      "id": 93302,
+      "grootte": 168588,
+      "gepubliceerd": "2026-05-22T14:54:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "Verslag RvC 2025_conform_criteria_NZA_signed.pdf",
+      "id": 93301,
+      "grootte": 540046,
+      "gepubliceerd": "2026-05-22T14:52:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Twentse Huisartsen Onderneming Oost Nederland (SHT-THOON)": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "UNICUM Lekstroom": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "UNICUM Zuidoost-Utrecht": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "ZIO Zorg in Ontwikkeling": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Zorggroep Gelders Rivierenland": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Zorggroep Haarlemmermeer": {
+  "gevonden": [
+   {
+    "naam_officieel": "Zorggroep Haarlemmermeer B.V.",
+    "plaats": "Hoofddorp",
+    "externalOrganizationId": "73745774",
+    "concernId": "6353C442-9016-49F7-8DD9-A2040FBFA9DC",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "jrek 2025 Zorggroep Haarlemmermeer BV ondertekend.pdf",
+      "id": 92933,
+      "grootte": 2225028,
+      "gepubliceerd": "2026-05-21T15:33:00Z"
+     },
+     {
+      "type": "Overig",
+      "bestand": "jrek 2025 Zorggroep Haarlemmermeer BV ondertekend.pdf",
+      "id": 92935,
+      "grootte": 2225028,
+      "gepubliceerd": "2026-05-21T15:34:00Z"
+     },
+     {
+      "type": "Verslag interne toezichthouder",
+      "bestand": "jrek 2025 Zorggroep Haarlemmermeer BV ondertekend.pdf",
+      "id": 92934,
+      "grootte": 2225028,
+      "gepubliceerd": "2026-05-21T15:33:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1
+ },
+ "Zorggroep Hoeksewaard (ZGHW)": {
+  "gevonden": [
+   {
+    "naam_officieel": "Coöperatie Zorggroep Hoeksewaard U.A.",
+    "plaats": "Klaaswaal",
+    "externalOrganizationId": "51348411",
+    "concernId": "XKMPHK42RZ",
+    "documenten": [
+     {
+      "type": "Jaarrekening",
+      "bestand": "Coöperatie Zorggroep Hoeksewaard U.A. - Jaarrekening 2025 - 2026 06 03.pdf",
+      "id": 106671,
+      "grootte": 3499580,
+      "gepubliceerd": "2026-09-28T15:26:00Z"
+     }
+    ],
+    "heeft_jaarrekening": true
+   }
+  ],
+  "aantal_hits": 1,
+  "zoekterm": "Zorggroep Hoeksewaard"
+ },
+ "Zorggroep Ridderkerk": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ },
+ "Zorg voor zuid": {
+  "gevonden": [],
+  "aantal_hits": 0,
+  "zoekterm": null
+ }
+}
